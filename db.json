@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "michael",
+      "LastName": "baba",
+      "mail": "michael@gmail.com",
+      "dob": "2017-06-14T18:30:00.000Z",
+      "gender": "male",
+      "education": "ece",
+      "company": "trysol",
+      "experence": 3,
+      "package": 800000,
+      "id": 2
+    },
+    {
+      "firstName": "chicha",
+      "LastName": "gurrala",
+      "mail": "chicha2gmail.com",
+      "dob": "2023-10-25T18:30:00.000Z",
+      "gender": "male",
+      "education": "civil",
+      "company": "chimtu",
+      "experence": 25,
+      "package": 55000,
+      "id": 3
+    },
+    {
+      "firstName": "chicha",
+      "LastName": "gurrala",
+      "mail": "chicha2gmail.com",
+      "dob": "2023-10-25T18:30:00.000Z",
+      "gender": "male",
+      "education": "civil",
+      "company": "chimtu",
+      "experence": 25,
+      "package": 55000,
+      "id": 4
+    },
+    {
+      "firstName": "chicha",
+      "LastName": "gurrala",
+      "mail": "chicha2gmail.com",
+      "dob": "2023-10-25T18:30:00.000Z",
+      "gender": "male",
+      "education": "civil",
+      "company": "chimtu",
+      "experence": 25,
+      "package": 55000,
+      "id": 5
+    },
+    {
+      "firstName": "chicha",
+      "LastName": "gurrala",
+      "mail": "chicha2gmail.com",
+      "dob": "2023-10-25T18:30:00.000Z",
+      "gender": "male",
+      "education": "civil",
+      "company": "chimtu",
+      "experence": 25,
+      "package": 55000,
+      "id": 6
+    },
+    {
+      "firstName": "chicha",
+      "LastName": "gurrala",
+      "mail": "chicha2gmail.com",
+      "dob": "2023-10-25T18:30:00.000Z",
+      "gender": "male",
+      "education": "civil",
+      "company": "chimtu",
+      "experence": 25,
+      "package": 55000,
+      "id": 7
+    },
+    {
+      "firstName": "chicha",
+      "LastName": "gurrala",
+      "mail": "chicha2gmail.com",
+      "dob": "2023-10-25T18:30:00.000Z",
+      "gender": "male",
+      "education": "civil",
+      "company": "chimtu",
+      "experence": 25,
+      "package": 55000,
+      "id": 8
+    },
+    {
+      "firstName": "bupesh",
+      "LastName": "anaparthi",
+      "mail": "bupesh@gmail.com",
+      "dob": "2023-11-12T18:30:00.000Z",
+      "gender": "Felale",
+      "education": "mech",
+      "company": "procreate",
+      "experence": 10,
+      "package": 450000,
+      "id": 9
+    }
+  ]
+}

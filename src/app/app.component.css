@@ -1,0 +1,15 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  [aria-label]:hover:after {
+    content: attr(aria-label);
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 5px; /* Adjust as needed */
+    margin-top: -25px; /* Adjust as needed */
+    white-space: nowrap;
+  }
